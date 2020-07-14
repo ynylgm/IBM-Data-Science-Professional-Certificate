@@ -1,7 +1,7 @@
 # Final-Project-for-Python-for-Data-Science-and-AI
 
 This is the final project for the Python for Data Science and AI course for IBM Data Science Professional Certificate via Coursera.<br/>
-In the Jupyter notebook published(from IBM Watson Studio), the dashboard won't load so I've attached a screenshot of it separately.
+Please refer to the separate image file for the Dashboard instead of the Jupyter notebook.
 
 This project mainly focuses on:
 * Performing basic hands-on data analysis using our Jupyter-based lab environment<br/>
