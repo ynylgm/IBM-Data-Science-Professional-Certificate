@@ -1,6 +1,6 @@
 # Project-for-Applied-Data-Science-Capstone
 
-This is the final project for the Applied Data Science Capstone course for IBM Data Science Professional Certificate via Coursera.<br/>
+This is a project for the Applied Data Science Capstone course for IBM Data Science Professional Certificate via Coursera.<br/>
 Please see the separate image files for the Maps instead of the Jupyter notebook.
 
 This project requires key skills covered so far in previous courses and mainly focuses on:
