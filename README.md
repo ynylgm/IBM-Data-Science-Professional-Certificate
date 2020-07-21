@@ -1,6 +1,6 @@
 # Project-for-Applied-Data-Science-Capstone
 
-This is a project for the Applied Data Science Capstone course for IBM Data Science Professional Certificate via Coursera.<br/>
+This is the project for the Applied Data Science Capstone course for IBM Data Science Professional Certificate via Coursera.<br/>
 Please see the separate image files for the Maps instead of the Jupyter notebook.
 
 The goal of this project is to obtain the table of neighborhoods in Toronto from webpage and analyze the types of restaurants in specified neighborhoods, cluster the neighborhoods by frequency of various types of restaurants so travelers can make a better decision on which neighborhood to travel to depending on what cuisine they crave.
